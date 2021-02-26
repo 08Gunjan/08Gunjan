@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a participant at <strong>GirlScript Summer of Code</strong>
-- 🌱 I’m currently learning Full Stack Development
-- 💻 Primary Coding Language:<b>Java </b>
+- 🌱 I’m currently learning <strong>Full Stack Development<strong>
+- 💻 Primary Coding Language:<b> Java </b>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to Dance💃🏻
 <br>
