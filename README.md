@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08Gunjan&label=Profile%20views&color=0e75b6&style=flat" alt="08Gunjan" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/gunjan-0803" target="blank"><img align="center" src="https://github.com/08Gunjan/Hackerrank/blob/main/images/linkedin_icon.png" alt="Gunjan " height="21" width="25" /></a>
+<a href="https://www.linkedin.com/in/gunjan-0803/" target="blank"><img align="center" src="https://github.com/08Gunjan/Hackerrank/blob/main/images/linkedin_icon.png" alt="Gunjan " height="21" width="25" /></a>
 <a href="https://www.instagram.com/gunjan.bajaj.08/" target="blank"><img align="center" src="https://github.com/08Gunjan/Hackerrank/blob/main/images/insta_icon.png" alt="gunjan.bajaj.08" height="21" width="25" /></a>
 <a href="https://www.hackerrank.com/gunjan1800_cse18" target="blank"><img align="center" src="https://github.com/08Gunjan/Hackerrank/blob/main/images/hackerrank_icon.png" alt="gunjan1800_cse18" height="21" width="25" /></a>
  <a href="https://leetcode.com/08gunjan/" target="blank"><img align="center" src="https://github.com/08Gunjan/Hackerrank/blob/main/images/leetcode_icon.png" alt="08gunjan" height="21" width="25" /></a> 
