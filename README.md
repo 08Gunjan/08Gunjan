@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 <br>
 
+
+
+## Crunching The Numbers
+[![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=08Gunjan&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08Gunjan&label=Profile%20views&color=0e75b6&style=flat" alt="08Gunjan" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,11 +37,6 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/gunjan1800_cse18" target="blank"><img align="center" src="https://github.com/08Gunjan/Hackerrank/blob/main/images/hackerrank_icon.png" alt="gunjan1800_cse18" height="21" width="25" /></a>
  <a href="https://leetcode.com/08gunjan/" target="blank"><img align="center" src="https://github.com/08Gunjan/Hackerrank/blob/main/images/leetcode_icon.png" alt="08gunjan" height="21" width="25" /></a> 
 </p>
-
-
-## Crunching The Numbers
-[![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=08Gunjan&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
