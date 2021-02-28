@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08Gunjan&label=Profile%20views&color=0e75b6&style=flat" alt="08Gunjan" /> </p>
+
 ## Crunching The Numbers
 [![Gunjan's github stats](https://github-readme-stats.vercel.app/api?username=08Gunjan&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
