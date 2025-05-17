@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a participant at <strong>GirlScript Summer of Code</strong>
+- 🔭 Product Enthusiast</strong>
 - 🌱 I’m currently learning <strong>Full Stack Development<strong>
 - 💻 Primary Coding Language:<b> Java </b>
 - 😄 Pronouns: she/her
