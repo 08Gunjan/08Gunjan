@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Product Enthusiast</strong>
-- 🌱 I’m currently learning <strong>Full Stack Development<strong>
+- 🔭 I love using Products</strong>
+- 🌱 Experimenting and building new products
 - 💻 Primary Coding Language:<b> Java </b>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to Dance💃🏻
