@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I love using Products</strong>
-- 🌱 Experimenting and building new products
+- 🌱 won 1st place 🥇 in the AI for PM Hackathon organized by Product Space!
 - 💻 Primary Coding Language:<b> Java </b>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to Dance💃🏻
